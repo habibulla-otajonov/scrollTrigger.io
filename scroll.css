@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+/* body{
+    overflow: hidden;
+} */
+section{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section h2{
+    font-size: 6em;
+    color: #fff;
+    font-weight: 500;
+}
+.box{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+}
+.box span{
+    color: greenyellow;
+}
+.box h2{
+    font-size: 3em;
+}
+.box .logo{
+    max-width: 350px;
+}
+
+.box2{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+    background: #000;
+    color: #fff;
+}
+.box2 h2 {
+    font-size: 3em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
